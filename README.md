@@ -13,7 +13,7 @@ week 2
 
 week 3
 4/10/21
-    * sectie 3
+    * sectie 3 (122min)
         * first program and some tips (20min)
         * variables and data types (15min)
         * default variable values (5min)
@@ -22,4 +22,4 @@ week 3
         * string methods - part 2 (10min)
         * examen 1: strings quiz => 4/6 (10min)
         * string vs stringbuffel vs stringbuilder (10min) => zie document
-        * arrays 
+        * arrays (25min)
