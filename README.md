@@ -23,3 +23,18 @@ week 3
         * examen 1: strings quiz => 4/6 (10min)
         * string vs stringbuffel vs stringbuilder (10min) => zie document
         * arrays (25min)
+
+8/10/21
+    * sectie 4 (55min)
+        * methodes introduction (10min)
+        * methodes - practical example (15min)
+        * understanding return type (15min)
+        * class introduction (15min)
+
+week 4
+11/10/21
+    * sectie 5
+        * getters-setters and this keyword - part 1 (25min) => zie class car en class ClassDemo
+        * getters-setters and this keyword - part 2 (20min) => zie class car en class ClassDemo
+        * getters-setters and this keyword - part 3 (6min)
+        * constructors
