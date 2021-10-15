@@ -33,8 +33,29 @@ week 3
 
 week 4
 11/10/21
-    * sectie 5
+    * sectie 5 (67min)
         * getters-setters and this keyword - part 1 (25min) => zie class car en class ClassDemo
         * getters-setters and this keyword - part 2 (20min) => zie class car en class ClassDemo
         * getters-setters and this keyword - part 3 (6min)
-        * constructors
+        * constructors (16min) => class car en class ConstructorDemo
+
+15/10/21
+    * sectie 6: In-Depth Java For Beginners (2min) => vanaf sectie 47 
+
+    * sectie 7 (73min)
+        * introduction (4min)
+        * How to inspect elements using Firefox DevTools (12min)
+        * Firefox Add-On - Try XPath (7min)
+        * How to inspect using Chrome DevTools (12min) 
+        * Chrome Extension - part 1 (10min) => ranorex selocity
+        * Chrome Extension - part 2 (8min) => ChroPath
+        * Tricks To Generate XPath (15min)
+            - XPath: //input[@id='name']
+        * Best Element Inspect Tool (5min)
+    
+    * sectie 8 ()
+        * Selenium WebDriver working versions (1min)  
+        * Setup Selenium WebDriver Environmennt (25min)
+        * How to add Selenium WebDriver JavaDoc ()  
+            => probleem door nieuwste versie van Selenium, vraag gesteld aan instructor van de course (30min)
+        * Selenium 3.x Update (8min)

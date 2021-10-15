@@ -5,6 +5,22 @@ public class Car {
 	private String make;
 	private String model;
 	private int year;
+	int speed;
+	int gear;
+	
+	//constructor
+	public Car() {
+		this(10,2);
+		this.speed = 0;
+		this.gear = 0;
+		System.out.println("Executing constructor without arguments");
+	}
+	
+	public Car(int speed, int gear) {
+		this.speed = speed;
+		this.gear = gear;
+		System.out.println("Executing constructor with arguments");
+	}
 	
 	public void increaseSpeed() {
 		System.out.println("Increasing the speed");
