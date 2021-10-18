@@ -78,12 +78,19 @@ week 4
         * how to set Drivers in System Path - Windows (10min)
         * interview questions (3min)
     
-    * sectie 10 ()
+    * sectie 10 (56min)
         * find elements using ID and XPATH (13min) => zie IdXPATHDemo
         * find elements using Name (6min) => zie FindByNameDemo
         * find elements using LinkText and PartialLinkText (15min) => zie FindByLinkText
-        * find elements using classname 
-        * find elements using TagName and interview questions
+        * find elements using classname (15min) => zie FindByClassDemo1 & FindByClassDemo2
+        * find elements using TagName and interview questions (7min) => zie FindByTagName
 
 -----------------------------------------------------------------------------------------------
 week  5
+18/10/21
+    * sectie 11 (60min)
+        * using Ids with CSS Selectors to find elements (15min)
+        * using multiple CSS classes to find (15min)
+        * using wildcarts with CSS selectors (15min)
+        * finding child nodes using CSS selectors (10min)
+        * CSS cheat sheet (5min) => zie doc CSS Cheat Sheet
