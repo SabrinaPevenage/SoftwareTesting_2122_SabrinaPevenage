@@ -5,11 +5,15 @@ week 1
     * onderzoeken testingomgevingen 
     * aankopen cursus 
 
+-----------------------------------------------------------------------------------------------
+
 week 2
 27/09/21
     * repo aanmaken
     * sectie 1: Selenium introduction (30min)
     * sectie 2: Setup and installation of required tools and plugins (1u)
+
+-----------------------------------------------------------------------------------------------
 
 week 3
 4/10/21
@@ -31,6 +35,8 @@ week 3
         * understanding return type (15min)
         * class introduction (15min)
 
+-----------------------------------------------------------------------------------------------
+
 week 4
 11/10/21
     * sectie 5 (67min)
@@ -39,7 +45,7 @@ week 4
         * getters-setters and this keyword - part 3 (6min)
         * constructors (16min) => class car en class ConstructorDemo
 
-15/10/21
+15-16/10/21
     * sectie 6: In-Depth Java For Beginners (2min) => vanaf sectie 47 
 
     * sectie 7 (73min)
@@ -53,9 +59,31 @@ week 4
             - XPath: //input[@id='name']
         * Best Element Inspect Tool (5min)
     
-    * sectie 8 ()
+    * sectie 8 (84min)
         * Selenium WebDriver working versions (1min)  
-        * Setup Selenium WebDriver Environmennt (25min)
-        * How to add Selenium WebDriver JavaDoc ()  
+        * Setup Selenium WebDriver Environmennt (25min) => zie TestClass
+        * How to add Selenium WebDriver JavaDoc (50min)  => zie TestClass
             => probleem door nieuwste versie van Selenium, vraag gesteld aan instructor van de course (30min)
+            => oplossing: vorige versie gebruiken (20min)
         * Selenium 3.x Update (8min)
+    
+    * sectie 9 (66min)
+        * running test on Firefox (10min)
+        * running test on Google Chrome (15min) => zie ChromeDriverWindows
+        * running test on Internet Explorer (10min)
+        * resolving IE Related Issues (5min)
+        * requirements to run test on Safari (5min)
+        * running tests on Safari (3min)
+        * how to set Drivers in System Path - Mac (5min)
+        * how to set Drivers in System Path - Windows (10min)
+        * interview questions (3min)
+    
+    * sectie 10 ()
+        * find elements using ID and XPATH (13min) => zie IdXPATHDemo
+        * find elements using Name (6min) => zie FindByNameDemo
+        * find elements using LinkText and PartialLinkText (15min) => zie FindByLinkText
+        * find elements using classname 
+        * find elements using TagName and interview questions
+
+-----------------------------------------------------------------------------------------------
+week  5
