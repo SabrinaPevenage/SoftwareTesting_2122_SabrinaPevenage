@@ -94,3 +94,30 @@ week  5
         * using wildcarts with CSS selectors (15min)
         * finding child nodes using CSS selectors (10min)
         * CSS cheat sheet (5min) => zie doc CSS Cheat Sheet
+    
+24/10/21
+    * sectie 12 (80min)
+        * difference between absolute and relative Xpath (13min)
+        * how to build an effective Xpath (6min)
+        * using text to build an effective Xpath (8min)
+        * build Xpath using contains keyword (7min)
+        * build Xpath using starts-with keyword (8min)
+        * how to find parent and sibling nodes (8min)
+        * exercise with solution + interview question (25min)
+        * Xpath Cheat Sheet (5min) => zie doc Xpath Cheat Sheet
+
+-----------------------------------------------------------------------------------------------
+Week 6
+
+    * sectie 13 
+        * JUnit introduction
+        * How to click and type on a web element
+        * How to navigate between web pages
+        * how to find the state of a web element (disabled and enabled elements)
+        * radio buttons and checkboxes
+        * working with a dropdown element - practical example
+        * understanding multiple select elements
+        * working with multiple select items - practical example
+        * how to work with hidden elements
+        * working with hidden elements - practical example
+    
