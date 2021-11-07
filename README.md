@@ -108,16 +108,26 @@ week  5
 
 -----------------------------------------------------------------------------------------------
 Week 6
+29/10/21
+    * sectie 13 (166min)
+        * JUnit introduction (18min) => zie JUnitIntroduction
+        * How to click and type on a web element (20min) => zie BasicActions
+        * How to navigate between web pages (20min) => zie NavigateBetweenPages
+        * how to find the state of a web element (disabled and enabled elements) (15min) => zie ElementState
+        * radio buttons and checkboxes (18min) => zie RadioButtonsAndCheckBoxes
+        * working with List of Elements (16min) => zie WorkingWithElementsList
+        * understanding dropdown elements (5min)
+        * working with a dropdown element - practical example (15min) => zie DropdownSelect
+        * understanding multiple select elements (5min)
+        * working with multiple select items - practical example (13min) => zie MultipleSelect
+        * how to work with hidden elements (6min)
+        * working with hidden elements - practical example (15min) => zie ElementDisplayed
 
-    * sectie 13 
-        * JUnit introduction
-        * How to click and type on a web element
-        * How to navigate between web pages
-        * how to find the state of a web element (disabled and enabled elements)
-        * radio buttons and checkboxes
-        * working with a dropdown element - practical example
-        * understanding multiple select elements
-        * working with multiple select items - practical example
-        * how to work with hidden elements
-        * working with hidden elements - practical example
-    
+-----------------------------------------------------------------------------------------------
+Week 7
+5/11/21
+    * sectie 14
+        * Firefox Profiles introduction (6min)
+        * using Firefox Profile in web automation code (7min)
+        * chrome options - bring up chrome with extensions 
+            - extension: 
