@@ -126,8 +126,26 @@ Week 6
 -----------------------------------------------------------------------------------------------
 Week 7
 5/11/21
-    * sectie 14
+    * sectie 14 (24min)
         * Firefox Profiles introduction (6min)
         * using Firefox Profile in web automation code (7min)
-        * chrome options - bring up chrome with extensions 
-            - extension: 
+        * chrome options - bring up chrome with extensions (11min)
+7/11/21 
+    * sectie 15 (75min)
+        * How to get the text on element (10min) => zie GetTextDemo
+        * How to get value of element attribute (10min) => zie GetAttributeDemo
+        * Generic method to find elements (18min) => zie GenericMethodsDemo & GenericMethodsOld
+        * Generic method to find element list (10min) => zie GenericMethodsDemo & GenericMethodsOld
+        * How to check if element is present (15min) => zie isElementPresentDemo & GenericMethodsOld
+        * generic methods -> code refactoring (12min) => zie GenericMethods
+
+-----------------------------------------------------------------------------------------------
+Week 8
+8/11/21
+    * sectie 16 
+        * implicit wait vs explicit wait (11min)
+        * implicit wait (practical example) (10min) => zie ImplicitWaitDemo
+        * explicit wait (practical example) 
+        * generic method to work with explicit wait - part 1
+        * generic method to work with explicit wait - part 2
+        * interview questions 
