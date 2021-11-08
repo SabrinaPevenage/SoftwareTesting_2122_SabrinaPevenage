@@ -145,7 +145,7 @@ Week 8
     * sectie 16 
         * implicit wait vs explicit wait (11min)
         * implicit wait (practical example) (10min) => zie ImplicitWaitDemo
-        * explicit wait (practical example) 
+        * explicit wait (practical example) (12min) => zie ExplicitWaitDemo
         * generic method to work with explicit wait - part 1
         * generic method to work with explicit wait - part 2
         * interview questions 
