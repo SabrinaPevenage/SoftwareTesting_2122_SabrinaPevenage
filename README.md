@@ -142,10 +142,36 @@ Week 7
 -----------------------------------------------------------------------------------------------
 Week 8
 8/11/21
-    * sectie 16 
+    * sectie 16 (60min)
         * implicit wait vs explicit wait (11min)
         * implicit wait (practical example) (10min) => zie ImplicitWaitDemo
         * explicit wait (practical example) (12min) => zie ExplicitWaitDemo
-        * generic method to work with explicit wait - part 1
-        * generic method to work with explicit wait - part 2
-        * interview questions 
+        * generic method to work with explicit wait - part 1 (16min) => zie ExplicitWaitWithUtilityDemo & WaitTypes
+        * generic method to work with explicit wait - part 2 (11min) => zie ExplicitWaitWithUtilityDemo & WaitTypes & GenericMethods
+        * interview questions (6min)
+
+-----------------------------------------------------------------------------------------------
+Week 9
+15/11/21
+    * sectie 17 (69min)
+        * Calendar Selection - working with date pickers (10min)
+        * Calendar Selection - practical example (5min)
+        * Calendar Selection - real time example (10min)
+        * AutoComplete - Working with Dynamic Dropdowns (15min)
+        * AutoComplete - Additional Examples (9min)
+        * How to take screenshots (20min) => zie ScreenshotsDemo
+
+    * sectie 18 (55min)
+        * executing javascript commands (15min) => zie JavaScriptExecution
+        * how to find size of the window (10min) => zie WindowSize
+        * how to scroll element into view (11min) => zie ScrollingElementIntoView
+        * how to click element using javascript execution - part 1 (7min) => zie JavaScriptClick
+        * how to click element using javascript execution - part 2 (12min)
+    
+    * sectie 19 
+        * How to switch window focus (17min) => zie SwitchWindow
+        * switch to window - practical example (20min) => zie SwitchWindow
+        * how to work with IFrames
+        * switch to IFrame - practical example
+        * handling JavaScript popup
+        * examen 2 + interview questions
