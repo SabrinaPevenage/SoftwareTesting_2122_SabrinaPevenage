@@ -167,11 +167,21 @@ Week 9
         * how to scroll element into view (11min) => zie ScrollingElementIntoView
         * how to click element using javascript execution - part 1 (7min) => zie JavaScriptClick
         * how to click element using javascript execution - part 2 (12min)
-    
-    * sectie 19 
+
+week 10
+23/11/21
+    * na update google chrome, nieuwe versie van Chromedriver 96 installeren (10min)
+
+    * sectie 19 (82min)
         * How to switch window focus (17min) => zie SwitchWindow
         * switch to window - practical example (20min) => zie SwitchWindow
-        * how to work with IFrames
-        * switch to IFrame - practical example
-        * handling JavaScript popup
-        * examen 2 + interview questions
+        * how to work with IFrames (13min) => zie SwitchFrame 
+        * switch to IFrame - practical example (12min) => zie SwitchFrame
+        * handling JavaScript popup (15min) => zie SwitchAlert
+        * examen 2 + interview questions (5min) => 6/6 
+    
+    * sectie 20
+        * Mouse Hover Actions
+        * How to drag and drop element on a web page
+        * working with sliders actions
+        * examen 3 interview questions
