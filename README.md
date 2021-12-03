@@ -168,6 +168,7 @@ Week 9
         * how to click element using javascript execution - part 1 (7min) => zie JavaScriptClick
         * how to click element using javascript execution - part 2 (12min)
 
+-----------------------------------------------------------------------------------------------
 week 10
 23/11/21
     * na update google chrome, nieuwe versie van Chromedriver 96 installeren (10min)
@@ -179,9 +180,31 @@ week 10
         * switch to IFrame - practical example (12min) => zie SwitchFrame
         * handling JavaScript popup (15min) => zie SwitchAlert
         * examen 2 + interview questions (5min) => 6/6 
+
+-----------------------------------------------------------------------------------------------
+week 11
+3/12/21
+    * sectie 20 (43min)
+        * Mouse Hover Actions (15min) => zie MouseHoverActions
+        * How to drag and drop element on a web page (13min) => zie DragAndDropActions
+        * working with sliders actions (10min) => zie SliderActions
+        * examen 3 interview questions (5min) => 2/3
+
+    * sectie 21 (52min)
+        * introduction (5min)
+        * How to press keyboard keys (20min) => zie KeyPressDemo1
+        * How to send a key combination (15min) => zie KeyPressDemo2
+        * Keypress events using actions class (12min) => zie KeyPressDemo3
     
-    * sectie 20
-        * Mouse Hover Actions
-        * How to drag and drop element on a web page
-        * working with sliders actions
-        * examen 3 interview questions
+    * sectie 22 (41min)
+        * no such element execption (16min)
+        * Element not clickable (13min)
+        * stale element exception - part 1 (6min)
+        * stale element exception - part 2 (6min)
+
+    * sectie 23
+        * automation dramework introduction (15min)
+        * page object model
+        * creating object repository and page class
+        * page factory
+        * find all links on a web page - BONUS
