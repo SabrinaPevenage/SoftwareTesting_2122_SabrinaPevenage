@@ -225,6 +225,10 @@ week 12
         * TestNG introduction (6min)
         * TestNG setup (15min)
         * How to add TestNG javadoc (8min) => zie TestNg_Demo 
+
+    * Opdracht 3 demo maken (30min)
+
+
     
     * sectie 26: TestNG - Annotations ans asserts
         * First TestNG Class - test annotation
