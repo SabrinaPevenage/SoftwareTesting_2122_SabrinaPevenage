@@ -1,0 +1,18 @@
+11:19:11.445 INFO  letskodeit.LoggingFile -msg
+11:19:11.448 ERROR letskodeit.LoggingFile -msg
+11:19:11.448 FATAL letskodeit.LoggingFile -msg
+11:19:15.876 DEBUG demo.LoggingDemo -msg
+11:19:15.878 INFO  demo.LoggingDemo -msg
+11:19:15.878 ERROR demo.LoggingDemo -msg
+11:19:15.878 FATAL demo.LoggingDemo -msg
+11:19:51.512 DEBUG demo.LoggingDemo -Debug Message Logged
+11:19:51.514 INFO  demo.LoggingDemo -Info Message Logged
+11:19:51.514 ERROR demo.LoggingDemo -Error Message Logged
+11:19:51.514 FATAL demo.LoggingDemo -Fatal Message Logged
+11:19:55.958 INFO  letskodeit.LoggingFile -Info Message Logged
+11:19:55.960 ERROR letskodeit.LoggingFile -Error Message Logged
+11:19:55.960 FATAL letskodeit.LoggingFile -Fatal Message Logged
+11:19:58.376 DEBUG demo.LoggingDemo -Debug Message Logged
+11:19:58.379 INFO  demo.LoggingDemo -Info Message Logged
+11:19:58.379 ERROR demo.LoggingDemo -Error Message Logged
+11:19:58.379 FATAL demo.LoggingDemo -Fatal Message Logged

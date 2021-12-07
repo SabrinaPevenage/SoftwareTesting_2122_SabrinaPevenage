@@ -17,7 +17,7 @@ week 2
 
 week 3
 4/10/21
-    * sectie 3 (122min)
+    * sectie 3: Java Concepts - data types (122min)
         * first program and some tips (20min)
         * variables and data types (15min)
         * default variable values (5min)
@@ -29,7 +29,7 @@ week 3
         * arrays (25min)
 
 8/10/21
-    * sectie 4 (55min)
+    * sectie 4: classes and methods - object oriented concepts (55min)
         * methodes introduction (10min)
         * methodes - practical example (15min)
         * understanding return type (15min)
@@ -39,7 +39,7 @@ week 3
 
 week 4
 11/10/21
-    * sectie 5 (67min)
+    * sectie 5: getters and setters - practical examples (67min)
         * getters-setters and this keyword - part 1 (25min) => zie class car en class ClassDemo
         * getters-setters and this keyword - part 2 (20min) => zie class car en class ClassDemo
         * getters-setters and this keyword - part 3 (6min)
@@ -48,7 +48,7 @@ week 4
 15-16/10/21
     * sectie 6: In-Depth Java For Beginners (2min) => vanaf sectie 47 
 
-    * sectie 7 (73min)
+    * sectie 7: Selenium Webdriver - setup (73min)
         * introduction (4min)
         * How to inspect elements using Firefox DevTools (12min)
         * Firefox Add-On - Try XPath (7min)
@@ -59,7 +59,7 @@ week 4
             - XPath: //input[@id='name']
         * Best Element Inspect Tool (5min)
     
-    * sectie 8 (84min)
+    * sectie 8: Selenium Webdriver - running tests on various browsers (84min)
         * Selenium WebDriver working versions (1min)  
         * Setup Selenium WebDriver Environmennt (25min) => zie TestClass
         * How to add Selenium WebDriver JavaDoc (50min)  => zie TestClass
@@ -67,7 +67,7 @@ week 4
             => oplossing: vorige versie gebruiken (20min)
         * Selenium 3.x Update (8min)
     
-    * sectie 9 (66min)
+    * sectie 9: element inspect browser tools (66min)
         * running test on Firefox (10min)
         * running test on Google Chrome (15min) => zie ChromeDriverWindows
         * running test on Internet Explorer (10min)
@@ -78,7 +78,7 @@ week 4
         * how to set Drivers in System Path - Windows (10min)
         * interview questions (3min)
     
-    * sectie 10 (56min)
+    * sectie 10: multiple ways to locate elements (56min)
         * find elements using ID and XPATH (13min) => zie IdXPATHDemo
         * find elements using Name (6min) => zie FindByNameDemo
         * find elements using LinkText and PartialLinkText (15min) => zie FindByLinkText
@@ -88,7 +88,7 @@ week 4
 -----------------------------------------------------------------------------------------------
 week  5
 18/10/21
-    * sectie 11 (60min)
+    * sectie 11: CSS selectors - advanced locators (60min)
         * using Ids with CSS Selectors to find elements (15min)
         * using multiple CSS classes to find (15min)
         * using wildcarts with CSS selectors (15min)
@@ -96,7 +96,7 @@ week  5
         * CSS cheat sheet (5min) => zie doc CSS Cheat Sheet
     
 24/10/21
-    * sectie 12 (80min)
+    * sectie 12: Xpath - advanced locators (80min)
         * difference between absolute and relative Xpath (13min)
         * how to build an effective Xpath (6min)
         * using text to build an effective Xpath (8min)
@@ -109,7 +109,7 @@ week  5
 -----------------------------------------------------------------------------------------------
 Week 6
 29/10/21
-    * sectie 13 (166min)
+    * sectie 13: Selenium Webdriver - working with web elements (166min)
         * JUnit introduction (18min) => zie JUnitIntroduction
         * How to click and type on a web element (20min) => zie BasicActions
         * How to navigate between web pages (20min) => zie NavigateBetweenPages
@@ -126,12 +126,12 @@ Week 6
 -----------------------------------------------------------------------------------------------
 Week 7
 5/11/21
-    * sectie 14 (24min)
+    * sectie 14: working with profiles and options (24min)
         * Firefox Profiles introduction (6min)
         * using Firefox Profile in web automation code (7min)
         * chrome options - bring up chrome with extensions (11min)
 7/11/21 
-    * sectie 15 (75min)
+    * sectie 15: Selenium Webdriver - useful methods and properties (75min)
         * How to get the text on element (10min) => zie GetTextDemo
         * How to get value of element attribute (10min) => zie GetAttributeDemo
         * Generic method to find elements (18min) => zie GenericMethodsDemo & GenericMethodsOld
@@ -142,7 +142,7 @@ Week 7
 -----------------------------------------------------------------------------------------------
 Week 8
 8/11/21
-    * sectie 16 (60min)
+    * sectie 16: Selenium Webdriver - wait types - handeling synchronization issues (60min)
         * implicit wait vs explicit wait (11min)
         * implicit wait (practical example) (10min) => zie ImplicitWaitDemo
         * explicit wait (practical example) (12min) => zie ExplicitWaitDemo
@@ -153,7 +153,7 @@ Week 8
 -----------------------------------------------------------------------------------------------
 Week 9
 15/11/21
-    * sectie 17 (69min)
+    * sectie 17: Selenium Webdriver - advanced interactions (69min)
         * Calendar Selection - working with date pickers (10min)
         * Calendar Selection - practical example (5min)
         * Calendar Selection - real time example (10min)
@@ -161,7 +161,7 @@ Week 9
         * AutoComplete - Additional Examples (9min)
         * How to take screenshots (20min) => zie ScreenshotsDemo
 
-    * sectie 18 (55min)
+    * sectie 18: Selenium Webdriver - Javascript execution (55min)
         * executing javascript commands (15min) => zie JavaScriptExecution
         * how to find size of the window (10min) => zie WindowSize
         * how to scroll element into view (11min) => zie ScrollingElementIntoView
@@ -173,7 +173,7 @@ week 10
 23/11/21
     * na update google chrome, nieuwe versie van Chromedriver 96 installeren (10min)
 
-    * sectie 19 (82min)
+    * sectie 19: Selenium Webdriver - switch window and IFrames (82min)
         * How to switch window focus (17min) => zie SwitchWindow
         * switch to window - practical example (20min) => zie SwitchWindow
         * how to work with IFrames (13min) => zie SwitchFrame 
@@ -184,27 +184,52 @@ week 10
 -----------------------------------------------------------------------------------------------
 week 11
 3/12/21
-    * sectie 20 (43min)
+    * sectie 20: Selenium Webdriver - working with actions class (43min)
         * Mouse Hover Actions (15min) => zie MouseHoverActions
         * How to drag and drop element on a web page (13min) => zie DragAndDropActions
         * working with sliders actions (10min) => zie SliderActions
         * examen 3 interview questions (5min) => 2/3
 
-    * sectie 21 (52min)
+    * sectie 21: Selenium Webdriver - Key Press Events (52min)
         * introduction (5min)
         * How to press keyboard keys (20min) => zie KeyPressDemo1
         * How to send a key combination (15min) => zie KeyPressDemo2
         * Keypress events using actions class (12min) => zie KeyPressDemo3
     
-    * sectie 22 (41min)
+    * sectie 22: Popular interview questions - Selenium Webdriver Exceptions (41min)
         * no such element execption (16min)
         * Element not clickable (13min)
         * stale element exception - part 1 (6min)
         * stale element exception - part 2 (6min)
 
-    * sectie 23
+-----------------------------------------------------------------------------------------------
+week 12
+6/12/21
+    * sectie 23: Automation Framework (100min)
         * automation dramework introduction (15min)
-        * page object model
-        * creating object repository and page class
-        * page factory
-        * find all links on a web page - BONUS
+        * page object model (25min) => zie SearchPage en PageObjectModel
+        * creating object repository and page class (15min) => zie SearchPageFactory
+        * page factory (25min) => zie SearchPageFactory en NoFrameworkTest en FrameworkTestCase
+        * find all links on a web page - BONUS (20min) => zie FindLinks
+
+7/12/21
+    * sectie 24: Logging infrastructure - using Log4j2 (70min)
+        * Log4j2 introduction (11min)
+        * using default configuration (13min) => zie LoggingDemo
+        * using configuration file - console logging (13min) => zie LoggingConsole en Log4j2.xml
+        * using configuration file - file logging (16 min) => zie LoggingFile en Log4j2.xml
+        * working with custom loggers (10min) => zie LoggingDemo en LoggingFile en Log4j2.xml
+        * test case example using Log4j2 (7min)
+    
+    * sectie 25: TestNG setup (29min)
+        * TestNG introduction (6min)
+        * TestNG setup (15min)
+        * How to add TestNG javadoc (8min) => zie TestNg_Demo 
+    
+    * sectie 26: TestNG - Annotations ans asserts
+        * First TestNG Class - test annotation
+        * TestNG asserts
+        * Method and class annotations
+        * running a test suite
+        * BeforeSuite and AfterSuite Annotations
+        * BeforeTest and AfterTest annotations 
