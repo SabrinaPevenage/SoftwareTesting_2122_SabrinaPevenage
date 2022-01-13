@@ -67,7 +67,7 @@ public class CasusPracticePage {
 		benzCheckBox.click();
 		Thread.sleep(2000);
 		
-		//naar sign in
+		//naar sign in, invullen en terug
 		String currentUrl = driver.getCurrentUrl();
 		String urlToNavigate = "https://courses.letskodeit.com/login";
 		driver.navigate().to(urlToNavigate);

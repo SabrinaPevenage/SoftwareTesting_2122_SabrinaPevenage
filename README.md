@@ -228,12 +228,88 @@ week 12
 
     * Opdracht 3 demo maken (30min)
 
+-----------------------------------------------------------------------------------------------
+week 13
+13/12/21 & 17/12/21
+    * sectie 26: TestNG - Annotations ans asserts (130min)
+        * First TestNG Class - test annotation (15min) => zie SomeClassToTest en TestAnnotation 
+        * TestNG asserts (18min) => zie SomeClassToTest en TestNG_Asserts
+        * Test NG soft Asserts (11min) => zie TestNG_SoftAsserts
+        * Method and class annotations (11min) => zie TestNG_BeforeClassAnnotations
+        * running a test suite (15min) => zie testng.xml, TestNG_TestClass1 en TestNG_TestClass2
+        => error: vraag gesteld op platform (30min)
+        * BeforeSuite and AfterSuite Annotations (15min) => zie TestNG_TestClass1, TestNG_TestClass2 en BaseTestSuite
 
+        * BeforeTest and AfterTest annotations (15min)
+
+        - ctr + shift + o => clean up import statements
+        - ctr + shift + f => beautify code 
+
+-----------------------------------------------------------------------------------------------
+week 14
+21/12/21
+    * sectie 27: TestNG - Advanced Features (58min)
+        * Prioritizing Test Methods In A Desired Sequence (6min)
+        * How To Group Test Methods - Part 1 (15min)
+        * How To Group Test Methods - Part 2 (7min)
+        * Understanding Dependent Test Methods (13min)
+        * How To Disable And Timeout Test Methods (8min)
+        * How To Preserve Order Of Execution (9min)
+
+    * sectie 28: TestNG - parameters and parallel (28min)
+        * how to provide parameters to test methods (15min)
+        * How to run test in parallel (13min)
     
-    * sectie 26: TestNG - Annotations ans asserts
-        * First TestNG Class - test annotation
-        * TestNG asserts
-        * Method and class annotations
-        * running a test suite
-        * BeforeSuite and AfterSuite Annotations
-        * BeforeTest and AfterTest annotations 
+30/12/21
+    * sectie 29: TestNG - parameters and parallel: practice example (24min)
+        * TestNG practice exercise question (4min)
+        *  Practice Exercise Solution - Selenium WebDriver Practical Example (20min)
+    
+    * sectie 30: TestNG - Dataproviders (19min)
+        * Dataproviders - part 1 (12min)
+        * Dataproviders - part 2 (7min)
+    
+    * sectie 31: TestNG - ITestResult (28min)
+        * ITestResult interface (13min)
+        * How to take screenshot on failure (15min)
+    
+    * sectie 32: TestNG - listeners (64min)
+        * IInvokedMethodListener (20 min)
+        * ITestListener (22min)
+        * ISuiteListener(10min)
+        * TestNG Listeners - Code Refactoring (12min)
+
+-----------------------------------------------------------------------------------------------
+week 15
+3/1/22
+    * sectie 33: TestNG - Reporter Logs and HTML reports (17min)
+
+    * sectie 34: extent reports: advanced reporting (124min)
+        * advanced reporting introduction and features (11min)
+        * extent reports JARs download location (5min)
+        * advanced reporting - practical example (25min)
+        * attaching screenshots to advanced reports (18min)
+        * multiple test cases - practical example (20min)
+        * reporting with page object model (15min)
+        * exercise with solution - homework (30min)
+
+5/1/22
+    * sectie 35: Selenium WebDriver - data driven testing (70min)
+        * data driven testing setup (10min)
+        * reading data from excel file (15min)
+        * reading multiple data sets from excel file (12min)
+        * Multiple data sets test case - practical example (20min)
+        * writing data excel file (13min)
+    
+    * sectie 36: Selenium WebDriver - File upload and window authentification (70min)
+        * file upload windows - robot (15min)
+        * file upload mac - robot (15min)
+        * AutoIT installation and finder tool (10min)
+        * file upload windows - autoIT (15min)
+        * handeling windows authentification using AutoIT (15min)
+
+
+7/1/22
+    * sectie 37: Webdriver event listener (22min)
+        * webdriver event listener - part 1 (12min)
+        * webdriver event listener - part 2 (10min)
